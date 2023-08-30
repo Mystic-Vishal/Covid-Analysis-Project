@@ -1,3 +1,5 @@
+-- CODE FOR DATA EXPLORATION --
+
 Select *
 From PortfolioProject..CovidDeaths$
 where continent is not null
