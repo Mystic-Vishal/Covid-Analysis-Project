@@ -8,6 +8,7 @@ Later i have used those insight to do data visualisation using Tableau.
 [Attaching all the files in this repo itself.]
 
 **CovidDeaths** and **CovidVaccinations** are the main excels used for the data exploration.
+**Covid_Analysis.sql** contain the TSQL code for that.
 
 Whereas **Tableau Tables** (1 to 4) are used in data visualisation in tableau.
 
